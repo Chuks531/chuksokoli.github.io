@@ -1,0 +1,31 @@
+[
+    {
+      "user_id": 2,
+      "timestamp": "2025-03-13",
+      "page_url": "https://news.example.com/tech/article-456",
+      "action": "share",
+      "device_type": "desktop",
+      "referrer": "https://searchengine.com",
+      "session_id": "abc123"
+    },
+    {
+      "user_id": 3,
+      "timestamp": "2025-03-15",
+      "page_url": "https://news.example.com/sports/article-789",
+      "action": "like",
+      "device_type": "tablet",
+      "referrer": "https://facebook.com",
+      "session_id": "xbz689"
+    },
+    {
+      "user_id": 4,
+      "timestamp": "2025-03-16",
+      "page_url": "https://news.example.com/entertainment/article-012",
+      "action": "comment",
+      "device_type": "laptop",
+      "referrer": "https://twitter.com",
+      "session_id": "pqr456"
+    }
+  ]
+  
+  
